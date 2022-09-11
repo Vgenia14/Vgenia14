@@ -1,16 +1,34 @@
-### Hi there 👋
 
+###  Evgeniia 👋
+<br/>
+
+
+- ##### ⚡ Fun fact:
+
+Es gibt mehr Sterne im Universum als Sandkörner an allen Stränden der Erde
+<br/>
+<br/>
+- ##### 🌱 I’m currently learning ...
+
+<img align="left" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="32px"/>
+<img align="left" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="32px"/>
+<img align="left" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="32px"/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vgenia14&show_icons=true&theme=synthwave)
+
+
+
+
+<a href="https://github.com/Vgenia14">
+  <img src="https://img.shields.io/github/followers/Vgenia14">
+</a>
+<a href="https://github.com/Vgenia14">
+  <img src="https://img.shields.io/github/stars/Vgenia14">
+</a>
 <!--
-**Vgenia14/Vgenia14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<image src="">
+<image src=""> -->
