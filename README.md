@@ -6,7 +6,6 @@
 Es gibt mehr Sterne im Universum als Sandkörner an allen Stränden der Erde
 
 
-- ##### 🌱 I’m currently learning ...
 <img align="left" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="32px"/>
 <img align="left" alt="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="32px"/>
 <img align="left" alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="32px"/>
